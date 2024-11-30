@@ -18,5 +18,5 @@
 ###### ForEach activity:
   In these , for each child items in that folder we perform a copy activity inside the for each activity.
   ###### Copy activity :
-    Copy activity will be inside the for each activity which take each child item i.e. file in our case and store it in the ADLS gen 2 storage specified.
+  Copy activity will be inside the for each activity which take each child item i.e. file in our case and store it in the ADLS gen 2 storage specified.
 
