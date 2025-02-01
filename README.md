@@ -22,7 +22,7 @@
 
 ###### Mounting Storage in Databricks
 * Now after creating the Azure Databricks service, we supposed to mount the ADLS storage in Databricks service.
-* In order to that , we go to Azure App registration[https://medium.com/@srijaanaparthy/azure-app-registration-azure-cloud-made-easy-ba44a6ea8953#:~:text=Azure%20App%20Registration%20is%20the,services%20more%20secure%20and%20accessible.] service and create a app
+* In order to that , we go to Azure [App registration](https://medium.com/@srijaanaparthy/azure-app-registration-azure-cloud-made-easy-ba44a6ea8953#:~:text=Azure%20App%20Registration%20is%20the,services%20more%20secure%20and%20accessible.) service and create a app
 * We copy the client ID , tenant ID
 * After that in the same app we will go the certificates and registration and create a client secret.
 
